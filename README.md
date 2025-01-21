@@ -19,6 +19,7 @@ Utilizo frameworks como Angular y React para construir interfaces dinámicas, re
 
 [![Portal Creator](https://img.shields.io/badge/Portal_Creator-purple?style=for-the-badge)](https://portalcreator.pages.dev/)  
 Es una plantilla diseñada para facilitar la creación de portales personalizados
+<br/><br/>
 
 ## Encuéntrame en:
 
@@ -31,33 +32,11 @@ Es una plantilla diseñada para facilitar la creación de portales personalizado
 [![Web](https://img.shields.io/badge/Web-jdportfolio.pages.dev-purple?style=for-the-badge&logo=dev.to&logoColor=%23fff&labelColor=black)](https://jdportfolio.pages.dev/)
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Franco_Perez-purple?style=for-the-badge&logo=inspire&logoColor=%23fff&labelColor=black)](https://www.linkedin.com/in/jandrodev/)
+<br/><br/>
+
+## Contacto:
+
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-JandroDev-purple?style=for-the-badge&logo=proton%20mail&logoColor=%23fff&labelColor=black)](https://www.mypublicinbox.com/JandroDev)
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**jandro-dev/jandro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](https://img.shields.io/badge/jandro.develop@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=%23fff)](mailto:jandro.develop@gmail.com)
+<br/>
