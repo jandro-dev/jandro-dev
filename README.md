@@ -10,8 +10,15 @@
 
 Soy desarrollador de software desde 2024.
 
-Soy un dev full-stack especializado en la rama de front-end con los frameworks de angular y react.  
-Me encanta el diseño gráfico y la ciberseguridad las cuales intento aplicar en la mayoría de mis proyectos.
+Estoy especializado como Fullstack Developer con un fuerte enfoque en el desarrollo **Front-End**. Mi pasión por la tecnología se complementa con mi interés por el diseño gráfico y la ciberseguridad, habilidades que integro en la mayoría de mis proyectos para ofrecer soluciones visualmente atractivas y seguras.
+
+Utilizo frameworks como Angular y React para construir interfaces dinámicas, responsivas e intuitivas priorizando la experiencia del usuario.  
+<br/>
+
+## Proyectos destacados
+
+[![Portal Creator](https://img.shields.io/badge/Portal_Creator-purple?style=for-the-badge)](https://portalcreator.pages.dev/)  
+Es una plantilla diseñada para facilitar la creación de portales personalizados
 
 ## Encuéntrame en:
 
