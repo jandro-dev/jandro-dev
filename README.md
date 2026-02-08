@@ -6,7 +6,7 @@
    <h2 align="center">Software Developer<br/><br/></h2>
 </p>
 
-![https://github.com/jandro-dev/](https://github.com/user-attachments/assets/461b02a7-f66d-48ce-a223-ace7adf9fa0e)
+![https://github.com/jandro-dev/](https://github.com/user-attachments/assets/12223034-ebf7-4c6c-8bc5-04ee7ed3314e)
 
 Soy desarrollador **Full Stack** con especialización en **Front-End** y diseño de interfaces. 
 
