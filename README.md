@@ -2,41 +2,35 @@
    <a href="https://jandro.pages.dev" target="_blank">
      <img align="center" width="150" src="https://github.com/user-attachments/assets/8536206f-4524-448e-8489-4ca625a03b6d"/>
    </a>
-   <h3 align="center">¡Hola 👋! Soy Alejandro Franco</h3>
-   <h2 align="center">Full-Stack Developer<br/><br/></h2>
+   <h3 align="center">¡Hola 👋! Soy Alejandro</h3>
+   <h2 align="center">Software Developer<br/><br/></h2>
 </p>
 
 ![https://github.com/jandro-dev/](https://github.com/user-attachments/assets/461b02a7-f66d-48ce-a223-ace7adf9fa0e)
 
-Soy desarrollador de software desde 2024.
+Soy desarrollador **Full Stack** con especialización en **Front-End** y diseño de interfaces. 
 
-Estoy especializado como Fullstack Developer con un fuerte enfoque en el desarrollo **Front-End**. Mi pasión por la tecnología se complementa con mi interés por el diseño gráfico y la ciberseguridad, habilidades que integro en la mayoría de mis proyectos para ofrecer soluciones visualmente atractivas y seguras.
+Me apasiona crear productos digitales donde la programación y el diseño trabajen en conjunto para ofrecer experiencias funcionales, accesibles y visualmente atractivas.
 
-Utilizo frameworks como Angular y React para construir interfaces dinámicas, responsivas e intuitivas priorizando la experiencia del usuario.  
+Trabajo con **React**, **TypeScript/JavaScript** y **Tailwind CSS**, y diseño wireframes en **Figma** para definir la estructura y la intención visual de cada proyecto.
 <br/>
 
 ## Proyectos destacados
 
-[![Portal Creator](https://img.shields.io/badge/Portal_Creator-purple?style=for-the-badge)](https://portalcreator.pages.dev/)  
+<!--[![Portal Creator](https://img.shields.io/badge/Portal_Creator-purple?style=for-the-badge)](https://portalcreator.pages.dev/)  
 Es una plantilla diseñada para facilitar la creación de portales personalizados
-<br/><br/>
+<br/><br/>-->
 
 ## Encuéntrame en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@Jandro__Dev-purple?style=for-the-badge&logo=x&labelColor=black)](https://x.com/jandro_dev/)
+[![Figma](https://img.shields.io/badge/Figma-@jandrodev-purple?style=for-the-badge&logo=dev.to&logoColor=%23fff&labelColor=black)](https://www.figma.com/@jandrodev)
 <br/>
-[![Instagram](https://img.shields.io/badge/Instagram-@Jandro__Dev-purple?style=for-the-badge&logo=instagram&labelColor=black)](https://www.instagram.com/jandro_dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Franco-purple?style=for-the-badge&logo=inspire&logoColor=%23fff&labelColor=black)](https://www.linkedin.com/in/jandrodev/)
 <br/>
-[![Links](https://img.shields.io/badge/Links-jandro.pages.dev-purple?style=for-the-badge&logo=Linktree&logoColor=%23fff&labelColor=black)](https://jandro.pages.dev/)
-<br/>
-[![Web](https://img.shields.io/badge/Web-jdportfolio.pages.dev-purple?style=for-the-badge&logo=dev.to&logoColor=%23fff&labelColor=black)](https://jdportfolio.pages.dev/)
-<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Franco_Perez-purple?style=for-the-badge&logo=inspire&logoColor=%23fff&labelColor=black)](https://www.linkedin.com/in/jandrodev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jandrodev.vercel.app-purple?style=for-the-badge&logo=dev.to&logoColor=%23fff&labelColor=black)](https://jandrodev.vercel.app/)
 <br/><br/>
 
 ## Contacto:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-JandroDev-purple?style=for-the-badge&logo=proton%20mail&logoColor=%23fff&labelColor=black)](https://www.mypublicinbox.com/JandroDev)
-<br/>
-[![Gmail](https://img.shields.io/badge/jandro.develop@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=%23fff)](mailto:jandro.develop@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jandro.develop@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=%23fff&labelColor=black)](mailto:jandro.develop@gmail.com)
 <br/>
