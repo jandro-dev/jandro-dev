@@ -25,13 +25,14 @@ Plataforma de busqueda de trabajo para desarrolladores
 Clon de la tienda de Tesla  
 <br/>
 
-[![JandroShop](https://img.shields.io/badge/Jandro_Shop-purple?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=black)](https://github.com/jandro-dev/JandroShop)  
-E-commerce de mi marca personal como desarrollador  
+[![OpenMetaverse](https://img.shields.io/badge/OpenMetaverse-purple?style=for-the-badge&logo=laravel&logoColor=%23fff&labelColor=black)](https://github.com/afrancop05/OpenMetaverse-Server)  
+Servidor de gestión de contenido VR  
 <br/>
 
 [![PortalCreator](https://img.shields.io/badge/Portal_Creator-purple?style=for-the-badge&logo=angular&logoColor=%23fff&labelColor=black)](https://github.com/jandro-dev/Portal_Creator_TFG)  
 Plataforma para crear y personalizar tu portal de contenido.  
 <br/>
+
 
 ## Encuéntrame en:
 
